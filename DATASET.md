@@ -20,3 +20,5 @@ The notebook is configured to run on Kaggle. To run locally:
 1.  Download the dataset from Kaggle or the official site.
 2.  Ensure you have the `point_cloud/` and `rgb_imgs/` directories arranged as expected by the notebook's `Config` class.
 3.  Update the `BASE_DIR` in the notebook to your local path.
+
+# auto-commit
