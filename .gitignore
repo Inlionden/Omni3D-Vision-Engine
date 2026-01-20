@@ -24,3 +24,5 @@ data/
 .env
 venv/
 env/
+
+# auto-commit
